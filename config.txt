@@ -1,0 +1,10 @@
+{
+    "DeviceID"          : "IREDRPI001",
+    "AreaCode"          : "PH1MOHCHD",
+    "CaptureInterval"   : 15,
+    "CaptureIterations" : 1,
+    "CaptureDuration"   : 1,
+    "TransferInterval"  : 2,
+    "HealthChkInterval" : 5,
+    "TotalCycle"        : 5 
+}
